@@ -1,7 +1,7 @@
 import { Keypair } from "@solana/web3.js";
 
 let finded = false
-const prefix = "alex"
+const prefix = "alexey"
 
 while (!finded) {
     let keypair = Keypair.generate()

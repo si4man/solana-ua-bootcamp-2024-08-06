@@ -1,2 +1,4 @@
 node_modules/
+electrodo-test/
+nft-electrodo-actual/
 .env
