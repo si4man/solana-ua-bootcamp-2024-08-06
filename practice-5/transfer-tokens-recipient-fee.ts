@@ -1,4 +1,4 @@
-import 'dotenv/config';
+import "dotenv/config";
 import { clusterApiUrl, Connection, Keypair, Transaction, PublicKey, Blockhash } from '@solana/web3.js';
 import { getOrCreateAssociatedTokenAccount, createTransferInstruction } from '@solana/spl-token';
 import { getExplorerLink } from "@solana-developers/helpers";
